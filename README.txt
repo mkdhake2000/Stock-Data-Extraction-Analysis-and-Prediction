@@ -21,7 +21,7 @@ You are requested to install below packages before executing scripts
 ORDER OF EXECTUTION:(there exists dependencies between the notebooks)
 1.run 'ScrapeStockData.ipynb'
 
-   ->input:No input required(only website "https://www.tickertape.in/screener" needs to be functioning properly and "chromedriver.exe" for the current chrome version(here chromedriver for chrom v96 is used) should be present in same folder to connect to chrome using webdriver)
+   ->input:No input required(only website "https://www.tickertape.in/screener" needs to be functioning properly and "chromedriver.exe" for the current chrome version(here chromedriver for chrome v96 is used) should be present in same folder to connect to chrome using webdriver)(it is provided in zip file).
 
    ->output: stock-data.csv
 
